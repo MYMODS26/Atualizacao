@@ -1,5 +1,5 @@
 {
-	"version": "22.2",
+	"version": "22.1",
 	"download": "https://youtube.com/@Maycon_Mods",
 	"update": [
 		{
