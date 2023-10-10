@@ -1,6 +1,6 @@
 {
-	"version": "22.2",
-	"download": "https://youtube.com/@Maycon_Mods",
+	"version": "22.3",
+	"download": "https://youtu.be/EQuG5QHlVnQ?si=s53OrjlWbD33P2hB",
 	"update": [
 		{
 			"languaje": "en",
