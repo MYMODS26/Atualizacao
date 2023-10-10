@@ -1,6 +1,6 @@
 {
-	"version": "22.4",
-	"download": "https://youtu.be/KM-phfYeSlw?si=r3X22rO-_XuLh_SR",
+	"version": "22.5",
+	"download": "https://youtu.be/EQuG5QHlVnQ?si=s53OrjlWbD33P2hB",
 	"update": [
 		{
 			"languaje": "en",
